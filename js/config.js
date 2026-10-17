@@ -1,6 +1,6 @@
 // Public client-side settings only. NEVER add service_role or private credentials here.
 window.INNOVAL_CONFIG = Object.freeze({
- version: '17.0.0',
+ version: '18.0.0',
  supabaseUrl: 'https://opmbaaljwdqarnrgruax.supabase.co',
  supabasePublishableKey: 'sb_publishable_xqT_ZjYGsJ_3i3VVSvDs8w_MLP9gPSl',
  ga4MeasurementId: '', // Set to G-XXXXXXXXXX when ready. No PII is sent.

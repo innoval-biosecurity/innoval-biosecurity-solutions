@@ -4,10 +4,10 @@
  let finished=false;
  function startup(){
    try {
-     const p=sessionStorage.getItem('innovSession15');
-     const users=JSON.parse(localStorage.getItem('innovUsers15')||'{}');
-     if(p && /^01\d{9}$/.test(p) && users[p] && users[p].phone===p){enter(users[p]);return;}
-     sessionStorage.removeItem('innovSession15');
+     const p=sessionStorage.getItem('innovSession18');
+     const users=JSON.parse(localStorage.getItem('innovUsers18')||'{}');
+     if(p && /^\+\d{6,15}$/.test(p) && users[p] && users[p].phone===p){enter(users[p]);return;}
+     sessionStorage.removeItem('innovSession18');
    } catch(e){console.warn('Pilot session unavailable',e)}
    document.getElementById('auth').classList.remove('hide');
    document.getElementById('app').classList.add('hide');

@@ -12,3 +12,5 @@ INNOVAL BIOSECURITY SOLUTIONS — V17 FULL PROJECT
 10. To update GitHub Pages, upload the CONTENTS of this folder (not the enclosing folder) and commit changes. Cloudflare Pages can be connected to the same repository but avoid conflicting production domains.
 
 Important: This release packages and repairs the existing V16 app. It does not claim a secure phone login, complete admin backend, or fully migrated live product catalog.
+
+V18: لوجو Innoval الرسمي، فيديو مقدمة جديد، تسجيل محلي برقم دولي مع اسم ووظيفة ومنطقة، ومسارا إنشاء حساب/تسجيل دخول. غير موثق ولا يزامن الأجهزة.
