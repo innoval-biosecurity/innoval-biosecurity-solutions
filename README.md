@@ -19,3 +19,6 @@ Responsive, Arabic RTL, static GitHub Pages prototype. Contains Intro, Home, Far
 - Confirm rinse/dry/inspection; select Virkon S or GPC-8; enter approved rates.
 - Lines/pads stages only when applicable; fog always last when included.
 - Save report; check Farms and Reports after page refresh.
+
+
+V14.1: Restored approved original portrait splash artwork and changed the field label to عدد الطيور المُسكَّنة. The splash is a still image; no original intro video file was provided.
